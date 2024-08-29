@@ -1,6 +1,7 @@
 # Idiomatic-Pandas-Tutorial
 Pandas Training © MetaSnake 2022, CC BY-NC
 
+https://www.youtube.com/watch?v=Z9ekw2Ou3s0
 ## Install 
 
 * Clone this repo
